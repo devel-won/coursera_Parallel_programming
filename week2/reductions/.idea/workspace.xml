@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbacc690-f42c-4d9c-8faf-992fbebcd269" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1TnD7ghUI52wAjeVfLa9oYQydBr" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../week3/kmeans" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in parprog1-reductions">
+    <configuration name="All in parprog1-reductions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parprog1-reductions" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Debug sbt shell" type="Remote" activateToolWindowBeforeRun="false" temporary="true">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="41991" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="41991" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in parprog1-reductions" />
+        <item itemvalue="Remote.Debug sbt shell" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="parprog1-reductions" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/home/kwh/git/coursera/week2/reductions/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="parprog1-reductions-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="18232567340000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="389101485" />
+        <entry key="$PROJECT_DIR$/project/CommonBuild.scala" value="2286689913" />
+        <entry key="$PROJECT_DIR$/project/Courses.scala" value="1290868088" />
+        <entry key="$PROJECT_DIR$/project/GradingFeedback.scala" value="1185184919" />
+        <entry key="$PROJECT_DIR$/project/ScalaTestRunner.scala" value="288196450" />
+        <entry key="$PROJECT_DIR$/project/Settings.scala" value="3362305541" />
+        <entry key="$PROJECT_DIR$/project/StudentBuild.scala" value="4288349219" />
+        <entry key="$PROJECT_DIR$/project/StudentBuildLike.scala" value="2076816827" />
+        <entry key="$PROJECT_DIR$/project/StyleChecker.scala" value="1430858080" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="934637055" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="3364732609" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="3604734976" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scalashop" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbacc690-f42c-4d9c-8faf-992fbebcd269" name="Default Changelist" comment="" />
+      <created>1574086799201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574086799201</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/test/scala/reductions/LineOfSightSuite.scala</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
